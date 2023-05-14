@@ -1,8 +1,9 @@
 ## About the project
 
-#CruptoXTrade a Crypto Tracking Website.
-All The CryptoCurrencied listed here..
-All The Crypto Exchanges listed here..
+# CruptoXTrade a Crypto Tracking Website
+
+All The CryptoCurrencied listed here..\
+All The Crypto Exchanges listed here..\
 U can track any CryptoCurrencies record.
 
 Live Deme: [Link](https://cryptoxtrade.netlify.app/).
